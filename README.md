@@ -22,7 +22,7 @@
 
 </div>
 
-我做两类前端里的空间产品，也做能交给人使用的 AI 应用。地图侧用 Cesium 把无人机航线、高度和地形关系画进三维地球；场景侧用 Three.js 做数字孪生里的模型编排。AI 侧用 TypeScript 把对话、工具和本地数据接成工作流，桌面端用 Electron，智能体用 LangChain 和 LangGraph。
+专注无人机与数字孪生相关的三维可视化，同时开发面向业务场景的 AI 应用。
 
 ## 三条业务线
 
@@ -35,7 +35,7 @@
         <img alt="Vue" src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white" />
         <img alt="WebGIS" src="https://img.shields.io/badge/WebGIS-0F766E?style=flat-square" />
       </p>
-      在三维地球上表达航点、航段和离地高度，服务无人机航线规划这类 WebGIS 前端。
+      <p align="center">航线、空域与地理场景的三维表达，服务无人机相关的可视化业务。</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">数字孪生</h3>
@@ -44,7 +44,7 @@
         <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img alt="GLB" src="https://img.shields.io/badge/GLB-5586A4?style=flat-square" />
       </p>
-      把设备模型导入场景，管理资源，再对物体做平移、旋转和缩放。
+      <p align="center">在浏览器中搭建和呈现三维场景，让空间与设备关系清晰可见。</p>
     </td>
     <td width="34%" valign="top">
       <h3 align="center">AI 应用开发</h3>
@@ -53,7 +53,7 @@
         <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
         <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
       </p>
-      把模型接进创作、建模和互动叙事，保留上下文、工具过程和本地数据。
+      <p align="center">把大模型接入业务场景，做成可交互、可交付的智能应用。</p>
     </td>
   </tr>
 </table>
@@ -129,7 +129,7 @@ Drone 3D visualization · Digital twins · AI applications
 
 </div>
 
-I build spatial products for drones and digital twins, and I also ship AI applications people can actually use. On the map side, Cesium draws routes, altitude, and terrain into a 3D globe. On the scene side, Three.js is where device models are placed and edited. On the AI side, TypeScript connects chat, tools, and local data. Desktop apps run on Electron. Agents run on LangChain and LangGraph.
+Focused on 3D visualization for drones and digital twins, and on AI applications shaped for real business use.
 
 ## Three lines of work
 
@@ -142,7 +142,7 @@ I build spatial products for drones and digital twins, and I also ship AI applic
         <img alt="Vue" src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white" />
         <img alt="WebGIS" src="https://img.shields.io/badge/WebGIS-0F766E?style=flat-square" />
       </p>
-      Waypoints, flight segments, and height above terrain, shown on a 3D globe for drone mission planning.
+      <p align="center">3D views of routes, airspace, and geographic scenes for drone visualization.</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Digital twin</h3>
@@ -151,7 +151,7 @@ I build spatial products for drones and digital twins, and I also ship AI applic
         <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img alt="GLB" src="https://img.shields.io/badge/GLB-5586A4?style=flat-square" />
       </p>
-      Import equipment models, organize them, then move, rotate, and scale them in the scene.
+      <p align="center">Browser-based scenes that make space, equipment, and their relationships easy to see.</p>
     </td>
     <td width="34%" valign="top">
       <h3 align="center">AI applications</h3>
@@ -160,7 +160,7 @@ I build spatial products for drones and digital twins, and I also ship AI applic
         <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
         <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
       </p>
-      Models wired into writing, 3D modeling, and interactive stories, with context, tools, and local data.
+      <p align="center">Language models brought into business workflows as interactive applications.</p>
     </td>
   </tr>
 </table>
