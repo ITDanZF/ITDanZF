@@ -68,29 +68,11 @@
 
 `Vue 3` · `TypeScript` · `CesiumJS` · `Vite`
 
-### [threeEditor](https://github.com/ITDanZF/threeEditor) · 数字孪生场景编辑
-
-浏览器里的三维编辑器，用来把模型摆进孪生场景。可以导入 GLB，在文件树里管理资源，对物体平移、旋转、缩放。场景数据写在本地 IndexedDB。仓库里带了一个 GLB 设备模型，用来走通从导入到编辑的流程。
-
-`Next.js` · `React Three Fiber` · `Three.js` · `Tailwind CSS`
-
-### [Noteaide](https://github.com/ITDanZF/Noteaide) · 对话式三维建模
-
-AI 三维建模智能体。使用者用自然语言描述模型，由助手创建和编辑，不把专业建模软件当作入口。首页讲清这个产品，应用内有独立的绘图对话页，并放了模型选择和深度思考入口。对话页已经接上，从描述到模型的闭环还在继续做。
-
-`React` · `TypeScript` · `Vite` · `Three.js` · `Zustand`
-
 ### [StoryOS](https://github.com/ITDanZF/StoryOS) · 本地优先的 AI 应用
 
 长篇小说的桌面工作台，用来说明一条完整的 AI 应用链路。书架管理书籍、分卷和章节，正文在分页编辑器里写，也可以打开阅读器。AI 按全书、项目或当前章节续写和改写；复杂任务会规划、执行、审查，影响较大的操作先预览再确认。项目、会话和运行记录存在本机 SQLite。模型可接 OpenAI、DeepSeek、通义千问，密钥由使用者自己配置。
 
 `Electron` · `React` · `LangChain` · `LangGraph` · `Tiptap` · `SQLite`
-
-### [alGalgame](https://github.com/ITDanZF/alGalgame) · AI 互动影像
-
-实验性的 AI Galgame，仍在开发。产品结构是网页前端负责演出，服务侧连接语言模型、图像生成和向量记忆。服务端目前从 LangChain 这条线开始搭。
-
-`TypeScript` · `Vue` · `LangChain`
 
 [langchainjs-learn](https://github.com/ITDanZF/langchainjs-learn) 是配套练习：Node 示例、RAG 和向量检索。
 
@@ -177,29 +159,11 @@ A 3D globe for route planning, aimed at the kind of flight-route product describ
 
 `Vue 3` · `TypeScript` · `CesiumJS` · `Vite`
 
-### [threeEditor](https://github.com/ITDanZF/threeEditor) · Scene editor for digital twins
-
-A browser editor for placing models into a twin scene. It imports GLB files, keeps them in a file tree, and translates, rotates, and scales the selection. Scene data is stored in local IndexedDB. The repo includes one equipment GLB so the path from import to edit can be tried end to end.
-
-`Next.js` · `React Three Fiber` · `Three.js` · `Tailwind CSS`
-
-### [Noteaide](https://github.com/ITDanZF/Noteaide) · Conversational 3D modeling
-
-An AI agent for creating and editing 3D models in natural language. The product idea is that a person describes the model, and the assistant builds it, without starting from a professional modeling tool. The home page states that, and the app has a separate drawing chat with model selection and a deep-thinking entry. The chat surface is in place. The loop from description to a finished model is still being built.
-
-`React` · `TypeScript` · `Vite` · `Three.js` · `Zustand`
-
 ### [StoryOS](https://github.com/ITDanZF/StoryOS) · A local-first AI application
 
 A desktop workspace for long-form fiction, and a complete AI product path. A shelf holds books, volumes, and chapters. Writing happens in a paginated editor, with a reader for preview. The model can continue or rewrite from the book, the project, or the current chapter. Larger tasks are planned, executed, and reviewed. High-impact actions are previewed before they are approved. Projects, sessions, and runs stay in local SQLite. OpenAI, DeepSeek, and Qwen-compatible endpoints are supported, with keys supplied by the user.
 
 `Electron` · `React` · `LangChain` · `LangGraph` · `Tiptap` · `SQLite`
-
-### [alGalgame](https://github.com/ITDanZF/alGalgame) · AI interactive story
-
-An experimental AI galgame, still in development. The web frontend handles the performance. The service side is meant to connect a language model, image generation, and vector memory. The server work currently starts from the LangChain directory.
-
-`TypeScript` · `Vue` · `LangChain`
 
 [langchainjs-learn](https://github.com/ITDanZF/langchainjs-learn) is the companion practice repo: Node examples, RAG, and vector search.
 
