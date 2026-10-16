@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1220,100:115E59&height=190&section=header&text=hejinyu&fontSize=68&fontColor=F8FAFC&fontAlignY=34&desc=AI%20%C2%B7%20WebGIS%20%C2%B7%20Drone%203D%20%C2%B7%20Digital%20Twin&descAlignY=62&descSize=16&descColor=CCFBF1" width="100%" alt="hejinyu" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1220,100:115E59&height=190&section=header&text=ITDanZf&fontSize=64&fontColor=F8FAFC&fontAlignY=34&desc=AI%20%C2%B7%20WebGIS%20%C2%B7%20Drone%203D%20%C2%B7%20Digital%20Twin&descAlignY=62&descSize=16&descColor=CCFBF1" width="100%" alt="ITDanZf" />
 
 <a href="#zh-cn"><img alt="中文" src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-0F766E?style=for-the-badge" /></a>
 &nbsp;
@@ -12,13 +12,15 @@
 
 <div align="center">
 
-# hejinyu
+# ITDanZf
 
 **AI 应用开发工程师 / WebGIS 前端开发工程师**
 
 无人机三维可视化 · 数字孪生 · AI 应用开发
 
-[![Email](https://img.shields.io/badge/hejinyuhello%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hejinyuhello@gmail.com)
+[![Gmail](https://img.shields.io/badge/itdanzf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itdanzf@gmail.com)
+&nbsp;
+[![QQ](https://img.shields.io/badge/1144565385%40qq.com-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:1144565385@qq.com)
 
 </div>
 
@@ -119,13 +121,15 @@ AI 三维建模智能体。使用者用自然语言描述模型，由助手创�
 
 <div align="center">
 
-# hejinyu
+# ITDanZf
 
 **AI Application Engineer / WebGIS Frontend Engineer**
 
 Drone 3D visualization · Digital twins · AI applications
 
-[![Email](https://img.shields.io/badge/hejinyuhello%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hejinyuhello@gmail.com)
+[![Gmail](https://img.shields.io/badge/itdanzf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itdanzf@gmail.com)
+&nbsp;
+[![QQ](https://img.shields.io/badge/1144565385%40qq.com-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:1144565385@qq.com)
 
 </div>
 
@@ -227,6 +231,8 @@ Graphics practice also lives in [react-vite-webgl](https://github.com/ITDanZF/re
 <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ITDanZF&show_icons=true&theme=calm&hide_border=true&rank_icon=percentile" />
 <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITDanZF&layout=compact&theme=calm&hide_border=true&langs_count=8" />
 
-[hejinyuhello@gmail.com](mailto:hejinyuhello@gmail.com)
+[itdanzf@gmail.com](mailto:itdanzf@gmail.com)
+&nbsp;&nbsp;
+[1144565385@qq.com](mailto:1144565385@qq.com)
 
 </div>
