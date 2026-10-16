@@ -76,6 +76,10 @@
 
 [langchainjs-learn](https://github.com/ITDanZF/langchainjs-learn) 是配套练习：Node 示例、RAG 和向量检索。
 
+### [skill](https://github.com/ITDanZF/skill) · Codex 自定义技能
+
+日常编码用的 Codex 技能，集中放在仓库的 `codex` 目录。覆盖代码实现、新功能流程、模块化开发、原型页面还原，以及改动前的协作检查。
+
 ## 常用技术
 
 <p align="center">
@@ -166,6 +170,10 @@ A desktop workspace for long-form fiction, and a complete AI product path. A she
 `Electron` · `React` · `LangChain` · `LangGraph` · `Tiptap` · `SQLite`
 
 [langchainjs-learn](https://github.com/ITDanZF/langchainjs-learn) is the companion practice repo: Node examples, RAG, and vector search.
+
+### [skill](https://github.com/ITDanZF/skill) · Custom Codex skills
+
+Codex skills used for day-to-day coding, kept under `codex`. They cover implementation, feature workflow, modular development, prototype-to-page rebuilds, and a collaboration check before editing existing code.
 
 ## Stack
 
